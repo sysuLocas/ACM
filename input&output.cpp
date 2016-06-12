@@ -32,15 +32,15 @@ int main()
 		while (!finish){
 			cin >> op;
 			if (op == "Take")
-            {
+            		{
 				//take...
 			}
             if (op == "otherOps")
-            {
+            		{
 				//other ops...
 			}
 			if (op == "Read")
-            {
+            		{
 				//read();
 				finish = true;
 			}
